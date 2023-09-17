@@ -1,0 +1,28 @@
+Can it speak English?
+Human
+true
+dog
+Does it have spots?
+Leopard
+true
+dog
+Can you ride it?
+Horse
+true
+dog
+Does it have a long neck?
+Giraffe
+true
+Leopard
+Does it have a hit song based on it?
+Shark
+true
+fish
+Does it bark?
+Cat
+false
+dog
+Dose it fly?
+nightingal
+true
+Cat
