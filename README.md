@@ -1,4 +1,4 @@
-# Akinators
+# Akinator
 
 Welcome to the Java Akinator-like game project! 
 This project was developed to create a game inspired by Akinator, with a unique feature: the game's ability to learn and adapt with each playthrough.
